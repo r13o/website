@@ -1,0 +1,27 @@
+html {
+	box-sizing: border-box;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+body {
+	margin: 0;
+	background-color: #00f;
+	color: #fff;
+	min-height: 320px;
+}
+
+html, body {
+	height: 100%;
+}
+
+div {
+	min-height: 100%;
+}
+
+svg {
+	display: block;
+	margin: -320px auto 0;
+}
