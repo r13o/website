@@ -8,8 +8,8 @@ html {
 
 body {
 	margin: 0;
-	background-color: #00f;
-	color: #fff;
+	background-color: #004D3C;
+	color: #FFFFFF;
 	min-height: 320px;
 }
 
@@ -24,4 +24,12 @@ div {
 svg {
 	display: block;
 	margin: -320px auto 0;
+}
+
+#body {
+	fill: #FFFFFF;
+}
+
+#t-shirt {
+	fill: #FFD61F;
 }
