@@ -8,9 +8,9 @@ html {
 
 body {
 	margin: 0;
-	background-color: #004D3C;
+	background-color: #80C8DB;
 	color: #FFFFFF;
-	min-height: 320px;
+	min-height: 240px;
 }
 
 html, body {
@@ -23,13 +23,6 @@ div {
 
 svg {
 	display: block;
-	margin: -320px auto 0;
+	margin: -240px auto 0;
 }
 
-#body {
-	fill: #FFFFFF;
-}
-
-#t-shirt {
-	fill: #FFD61F;
-}
