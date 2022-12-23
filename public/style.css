@@ -11,6 +11,8 @@ body {
 	background-color: #80C8DB;
 	color: #FFFFFF;
 	min-height: 240px;
+	font-family: sans-serif;
+	font-size: 22px;
 }
 
 html, body {
@@ -25,4 +27,3 @@ svg {
 	display: block;
 	margin: -240px auto 0;
 }
-
